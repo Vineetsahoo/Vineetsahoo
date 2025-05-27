@@ -28,7 +28,7 @@
 const vineet: Developer = {
   name: "Vineet Sahoo",
   location: "India 🇮🇳",
-  role: "Full Stack Developer",
+  role: "Front End Developer",
   
   currentFocus: [
     "Building scalable web applications",
@@ -65,22 +65,22 @@ const vineet: Developer = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,sass" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind" alt="Frontend Skills" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgresql,mysql,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" alt="Backend Skills" />
 </p>
 
 ### Mobile & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,figma,photoshop" alt="Mobile & Design Skills" />
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,figma" alt="Mobile & Design Skills" />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode,postman" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode" alt="Tools & Technologies" />
 </p>
 
 ### Programming Languages
