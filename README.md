@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Vineet Sahoo
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Front%20End%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=16"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%7C+Frontend+Enthusiast;🎯+Building+Digital+Solutions+That+Matter;💡+Always+Learning%2C+Always+Growing;🌟+Passionate+About+Clean+Code+%26+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+UI/UX+Developer+%7C+Frontend+Enthusiast;🎯+Building+Digital+Solutions+That+Matter;💡+Always+Learning%2C+Always+Growing;🌟+Passionate+About+Clean+Code+%26+Innovation" alt="Typing Animation" />
 </div>
 
 <div align="center">
