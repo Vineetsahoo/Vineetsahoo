@@ -216,8 +216,7 @@ const vineet: Developer = {
 ### 🌟 Key Achievements
 - 🏅 **100+ GitHub Contributions** in the last year
 - 🚀 **10+ Open Source Projects** developed and maintained
-- 🎯 **500+ LeetCode Problems** solved
-- 💡 **Multiple Hackathons** participated and won
+- 💡 **Multiple Hackathons** participated 
 - 🌟 **Community Contributor** in various developer forums
 
 ---
