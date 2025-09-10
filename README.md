@@ -77,27 +77,27 @@ const vineet: Developer = {
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,sass" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgresql" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,mongodb,mysql" alt="Backend Skills" />
 </p>
 
 ### 📱 Mobile & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,figma,photoshop" alt="Mobile & Design Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,figma" alt="Mobile & Design Skills" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,vercel,netlify,vscode,postman" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ansible,vercel" alt="Tools & Technologies" />
 </p>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Programming Languages" />
 </p>
 
 </div>
@@ -302,29 +302,12 @@ const vineet: Developer = {
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
-### 🎵 Currently Coding To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/vineetsahoo)
 
 </div>
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 35 mins  ██████████████████▓░░   75.2%
-JavaScript   2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░   16.4%
-CSS          1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░   7.5%
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░   1.2%
-```
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
-
-### 🌟 "Code is poetry written in logic, creativity shaped by constraints" 🌟
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
