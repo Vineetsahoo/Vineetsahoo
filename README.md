@@ -44,12 +44,11 @@ const vineet: Developer = {
   ],
   
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Angular"],
-    backend: ["Node.js", "Express", "Python", "FastAPI"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    mobile: ["React Native", "Flutter"],
-    tools: ["Git", "Docker", "Figma", "Linux", "VS Code"],
-    cloud: ["Vercel", "Netlify", "AWS"]
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Python"],
+    database: ["MongoDB", "MySQL"],
+    mobile: ["Figma", "Flutter"],
+    tools: ["Git", "Docker", "Ansible", "Linux"]
   },
   
   strengths: [
@@ -63,7 +62,7 @@ const vineet: Developer = {
 };
 ```
 
-### 🌟 What I'm Currently Working On
+### What I'm Currently Working On
 
 - 🔭 **Building:** [CollabTask](https://github.com/Vineetsahoo/CollabTask) - AI-powered task management platform
 - 🌱 **Learning:** Advanced React patterns, System Design, and Cloud Architecture
