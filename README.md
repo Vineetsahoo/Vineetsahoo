@@ -120,7 +120,6 @@ const vineet: Developer = {
 - 🚀 High-performance architecture
 
 **Tech Stack:** React, Node.js, MongoDB, Socket.io, JWT
-**Features:** Real-time updates, AI integration, Team management
 
 </td>
 <td width="50%">
@@ -136,7 +135,6 @@ const vineet: Developer = {
 - 🌍 Global impact measurement
 
 **Tech Stack:** React, JavaScript, CSS3, Chart.js
-**Features:** Data visualization, Impact tracking, Community features
 
 </td>
 </tr>
@@ -154,7 +152,6 @@ const vineet: Developer = {
 - 📈 Performance analytics
 
 **Tech Stack:** React, Python, FastAPI, Tailwind CSS
-**Features:** ML integration, Real-time analysis, Data visualization
 
 </td>
 <td width="50%">
@@ -170,7 +167,6 @@ const vineet: Developer = {
 - 🌐 SEO optimized
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-**Features:** Blog system, Contact form, Project showcase
 
 </td>
 </tr>
@@ -182,14 +178,14 @@ const vineet: Developer = {
 
 <div align="center">
 
-### 📈 Stats & Metrics
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vineetsahoo&show_icons=true&count_private=true&hide_border=true&title_color=2196F3&icon_color=4CAF50&text_color=9f9f9f&bg_color=0d1117&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetsahoo&layout=compact&hide_border=true&title_color=2196F3&text_color=9f9f9f&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top Languages" />
 
-### 📈 Streak & Activity
+<br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=vineetsahoo&theme=dark&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=4CAF50&currStreakLabel=4CAF50&border_radius=10" alt="GitHub Streak" />
+
+<br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetsahoo&custom_title=Vineet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2196F3&line=4CAF50&point=2196F3&area_color=FFFFFF&title_color=FFFFFF&area=true&border_radius=10" alt="GitHub Activity Graph" />
 
@@ -197,26 +193,11 @@ const vineet: Developer = {
 
 ---
 
-
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Milestones
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vineetsahoo&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  
-### 🎯 Coding Statistics
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/vineet_2005?theme=dark&font=Baloo%202&ext=activity)
-
-</div>
-
-### 🌟 Key Achievements
-- 🏅 **100+ GitHub Contributions** in the last year
-- 🚀 **10+ Open Source Projects** developed and maintained
-- 💡 **Multiple Hackathons** participated 
-- 🌟 **Community Contributor** in various developer forums
 
 ---
 
@@ -234,42 +215,44 @@ const vineet: Developer = {
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <br>
-        <small>Let's connect on LinkedIn</small>
+        <small>Let's connect professionally</small>
       </td>
       <td align="center">
         <a href="https://x.com/VineetSaho63046">
           <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
         </a>
         <br>
-        <small>Follow me on X</small>
+        <small>Follow for tech updates</small>
       </td>
       <td align="center">
         <a href="https://www.instagram.com/sahoo_era/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
         <br>
-        <small>See my profile</small>
+        <small>Behind the scenes</small>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="mailto:vineetsahoo3@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
         <br>
-        <small>Send me an email</small>
+        <small>Drop me a message</small>
       </td>
       <td align="center">
         <a href="https://portfolio-xi-ten-65.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
         </a>
         <br>
-        <small>View my work</small>
+        <small>Explore my work</small>
       </td>
       <td align="center">
         <a href="https://github.com/vineetsahoo">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
         <br>
-        <small>See my code</small>
+        <small>Check out my code</small>
       </td>
     </tr>
   </table>
@@ -277,13 +260,11 @@ const vineet: Developer = {
 
 ---
 
-
-
 ## 🎮 Fun Zone
 
 <div align="center">
 
-### ⚡ Developer Humor
+### ⚡ Developer Moments
 <details>
 <summary>Click for some coding fun! 🎯</summary>
 
@@ -301,7 +282,6 @@ const vineet: Developer = {
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
-
 </div>
 
 ---
@@ -312,7 +292,7 @@ const vineet: Developer = {
 
 ### 💫 Thanks for visiting! Let's build something amazing together! 💫
 
-**⭐ Star my repositories if you find them interesting!**
+**⭐ Star my repositories if you find them interesting!**  
 **🤝 Open to collaborations and new opportunities!**
 
 </div>
