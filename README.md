@@ -29,8 +29,7 @@ const profile = {
 ```
 
 **Currently Working On:**
-- [CollabTask](https://github.com/Vineetsahoo/CollabTask) - AI-powered task management platform
-- Learning advanced React patterns and system design
+- Learning React patterns and system design
 - Exploring Cloud & DevOps with focus on AWS services
 - Portfolio: [vineetsahoo.dev](https://portfolio-xi-ten-65.vercel.app/)
 
@@ -42,7 +41,7 @@ const profile = {
 
 **Database:** MongoDB • MySQL
 
-**Tools:** Git • Linux • Docker • Ansible • AWS • Figma
+**Tools:** Git • Linux • Docker • Ansible • AWS 
 
 **Languages:** Python • Java • C++ • C
 
@@ -54,7 +53,7 @@ AI-powered task management platform with real-time collaboration, smart automati
 **Tech Stack:** React, Node.js, MongoDB, Socket.io, JWT
 
 ### [Blue-Tech-Revolution](https://github.com/Vineetsahoo/Blue-Tech-Revolution)
-Environmental sustainability platform focused on eco-friendly tech solutions and impact tracking.
+An environmental sustainability platform focused on eco-friendly tech solutions and impact tracking.
 
 **Tech Stack:** React, JavaScript, CSS3, Chart.js
 
