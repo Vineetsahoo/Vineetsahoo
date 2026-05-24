@@ -258,26 +258,22 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vineetsahoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vineetsahoo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=vineetsahoo&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=9ca3af&bg_color=0d1117" alt="GitHub Stats"/>
-<img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=vineetsahoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=818cf8&currStreakNum=e2e8f0&sideNums=9ca3af&currStreakLabel=6366f1&sideLabels=9ca3af&dates=6b7280" alt="GitHub Streak"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false">
+    <img  alt="Vineetsahoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vineetsahoo?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" />
+  </a>
+<img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=radical&hide_border=true" alt="Vineetsahoo's GitHub Stats" />
 
 </div>
 
 <div align="center">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetsahoo&bg_color=0d1117&color=6366f1&line=818cf8&point=6366f1&area=true&area_color=6366f120&hide_border=true&custom_title=Contribution+Activity" alt="Contribution Activity"/>
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetsahoo&layout=compact&hide_border=true&title_color=6366f1&text_color=9ca3af&bg_color=0d1117&langs_count=7" alt="Top Languages"/>
 
 </div>
 
