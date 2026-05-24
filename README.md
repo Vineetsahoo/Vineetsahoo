@@ -84,7 +84,6 @@ const vineet = {
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Vineetsahoo)
 
-<br/>
 
 ## Featured Projects
 
@@ -307,7 +306,6 @@ GitHub Achievements
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Vineetsahoo)
 
-<br/>
 
 ## Engineering Philosophy
 
@@ -327,7 +325,7 @@ What I optimize for — in order of priority:
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/VineetSahoo)
 
-<br/>
+
 
 ## Connect
 
