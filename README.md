@@ -106,7 +106,7 @@ A production-grade SaaS platform that applies AI to detect CI/CD pipeline failur
 **Stack**
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,aws,docker,kubernetes,terraform" height="28"/>
 
-**Engineering highlights**
+**Highlights**
 - Multi-stage GH Actions CI: `backend-check → frontend-build → api-smoke → sonar-scan → docker-build`
 - Full IaC via Terraform — VPC, EKS, ECR, Lambda, CloudWatch, Bedrock IAM all codified
 - One-command EKS rollout via Ansible + Terraform + kubectl orchestration
@@ -159,11 +159,10 @@ An ML-powered cardiovascular risk assessment system that processes patient diagn
 **Stack**
 <img src="https://skillicons.dev/icons?i=python,jupyter" height="28"/>
 
-**Engineering highlights**
+**Highlights**
 - End-to-end ML pipeline: data ingestion → EDA → feature engineering → model training → evaluation
 - Comparative analysis across multiple classifiers with cross-validation and hyperparameter tuning
 - Publication-quality visualizations surfacing feature correlations and cardiovascular risk distributions
-- Reproducible research structure — every analysis step documented, version-controlled, and executable
 
 </td>
 </tr>
@@ -188,11 +187,10 @@ A real-time conversational AI interface built with Next.js and NVIDIA's inferenc
 **Stack**
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,vercel" height="28"/>
 
-**Engineering highlights**
+**Highlights**
 - Real-time message streaming with low-latency NVIDIA inference pipeline
 - Stateful conversation management across multi-turn sessions
-- Clean separation of concerns: UI layer, API client, and CMS-driven content
-- Responsive, accessible chat interface built without component library dependencies
+- Clean separation of concerns: UI layer, API client, and CMS(Content Management System)-driven content
 
 </td>
 <td width="47%" valign="top" align="center">
@@ -240,11 +238,10 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 **Stack**
 <img src="https://skillicons.dev/icons?i=python,html,jupyter" height="28"/>
 
-**Engineering highlights**
+**Highlights**
 - Single-source authoring compiled to HTML, PDF, and interactive Reveal.js slide decks
 - Embedded live Python execution inside literate programming documents
 - Structured as a progressive learning curriculum — beginner through advanced patterns
-- Community-recognized resource with 2 GitHub stars
 
 </td>
 </tr>
