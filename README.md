@@ -26,7 +26,6 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Vineetsahoo)
 
-<br/>
 
 ## `$ whoami`
 
@@ -51,7 +50,6 @@ const vineet = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-<br/>
 
 ## Technical Expertise
 
@@ -256,8 +254,6 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Vineetsahoo)
 
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -288,8 +284,6 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 <br/>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Vineetsahoo)
-
-<br/>
 
 ## Open Source
 
