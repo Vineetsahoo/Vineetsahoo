@@ -111,24 +111,8 @@ A production-grade SaaS platform that applies AI to detect CI/CD pipeline failur
 </td>
 <td width="47%" valign="top" align="center">
 
-```
-  Browser
-  React + TypeScript + Tailwind
-         │
-  Express API  ←──→  /metrics
-         │
-  AI Fallback Chain
-  ├── AWS Bedrock Nova  (primary)
-  ├── Ollama            (fallback)
-  └── Local model       (offline)
-         │
-  AWS Infrastructure (Terraform)
-  ┌──────┬──────┬───────────┐
-  EKS   ECR   Lambda   CloudWatch
-         │
-  Prometheus ──→ Grafana
-  (auto-provisioned dashboards)
-```
+<img width="1408" height="768" alt="MORA_AI" src="https://github.com/user-attachments/assets/51a21597-e418-4b4b-9610-a331b031ff13" />
+
 
 <br/>
 
@@ -148,25 +132,8 @@ A production-grade SaaS platform that applies AI to detect CI/CD pipeline failur
 <tr>
 <td width="47%" valign="top" align="center">
 
-```
-  Patient Diagnostic Data (CSV)
-         │
-  EDA & Data Preprocessing
-  Pandas · NumPy
-         │
-  Feature Engineering
-  (correlation · normalization)
-         │
-  Model Training & Comparison
-  ├── Logistic Regression
-  ├── Random Forest
-  └── SVM / Gradient Boosting
-         │
-  Cross-Validation & Scoring
-         │
-  Risk Assessment Output
-  Matplotlib · Seaborn viz
-```
+<img width="1408" height="768" alt="Cardio_Vision_AI" src="https://github.com/user-attachments/assets/77afce11-15a6-4192-aa57-cc03bbd6f040" />
+
 
 <br/>
 
@@ -226,22 +193,8 @@ A real-time conversational AI interface built with Next.js and NVIDIA's inferenc
 </td>
 <td width="47%" valign="top" align="center">
 
-```
-  User Chat Interface
-  Next.js + CSS Modules
-         │
-  Next.js API Route Handler
-         │
-  NVIDIA Inference API
-  (server-sent event stream)
-         │
-  Prismic CMS
-  (content & configuration layer)
-         │
-  Token stream → State update
-  → React UI re-render
-  (multi-turn session state)
-```
+<img width="1408" height="768" alt="Next_js_AI_Chatbot" src="https://github.com/user-attachments/assets/bc732d19-7eaf-4808-8724-452cc8bed9c9" />
+
 
 <br/>
 
@@ -261,23 +214,7 @@ A real-time conversational AI interface built with Next.js and NVIDIA's inferenc
 <tr>
 <td width="47%" valign="top" align="center">
 
-```
-  .qmd Source Files
-  Python + Markdown (unified source)
-         │
-  Quarto Render Engine
-         │
-  ┌──────┼────────┐
-  │      │        │
-HTML    PDF   Reveal.js
-              (interactive)
-         │
-  Live Python Code Execution
-  embedded in document body
-         │
-  Charts · Tables · Code output
-  (literate programming model)
-```
+<img width="1408" height="768" alt="Quarto_Learning _Journey" src="https://github.com/user-attachments/assets/837b2a4f-a477-411e-97b5-daa0acdfd115" />
 
 <br/>
 
