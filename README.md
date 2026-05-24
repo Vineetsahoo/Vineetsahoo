@@ -261,16 +261,17 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 <div align="center">
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false">
-    <img  alt="Vineetsahoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vineetsahoo?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" />
-  </a>
+  <img  alt="Vineetsahoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vineetsahoo?cardType=level-alternate&theme=radical&fontFamily=&hide_border=true&preferLogin=false" />
+  
 <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=radical&hide_border=true" alt="Vineetsahoo's GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetsahoo&bg_color=0d1117&color=6366f1&line=818cf8&point=6366f1&area=true&area_color=6366f120&hide_border=true&custom_title=Contribution+Activity" alt="Contribution Activity"/>
+<img width="98%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=vineetsahoo&bg_color=141321&color=fe428e&line=f8d847&point=a9fef7&area=true&area_color=fe428e33&hide_border=true&custom_title=Contribution+Activity" 
+alt="Contribution Activity"/>
 
 </div>
 
