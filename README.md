@@ -1,10 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=160&section=header&text=Vineet%20Sahoo&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=58&desc=Frontend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20%26%20DevOps&descAlignY=80&descSize=15&descColor=a5b4fc" width="100%"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=header&text=Vineet%20Sahoo&fontSize=70&animation=twinkling" alt="Vineet Sahoo profile header" />
+</p>
+ 
+<p>
+  <img src="https://img.shields.io/badge/Frontend%20Engineer-6366F1?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=for-the-badge&logoColor=white" alt="AI Systems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-1D4ED8?style=for-the-badge&logoColor=white" alt="Cloud and DevOps"/>
+</p>
+<sub>B.Tech Computer Science Engineering &nbsp;&middot;&nbsp; SRM Institute of Science &amp; Technology, Tamil Nadu</sub>
+ 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=5000&pause=2500&color=818CF8&center=true&vCenter=true&width=740&lines=B.Tech+Computer+Science+%E2%80%94+SRM+Institute+of+Science+%26+Technology%2C+Tamil+Nadu;Building+at+the+intersection+of+engineering+rigor+and+product+craft;Open+to+engineering+internships+%26+technical+collaborations" alt="Subtitle" />
 
 <br/>
 
@@ -13,11 +21,10 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vineetsahoo3@gmail.com)&ensp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/VineetSaho63046)
 
-<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Vineetsahoo)
 
 <br/>
 
@@ -75,7 +82,7 @@ const vineet = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Vineetsahoo)
 
 <br/>
 
@@ -248,7 +255,7 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Vineetsahoo)
 
 <br/>
 
@@ -281,7 +288,7 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Vineetsahoo)
 
 <br/>
 
@@ -298,7 +305,7 @@ GitHub Achievements
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Vineetsahoo)
 
 <br/>
 
@@ -318,7 +325,7 @@ What I optimize for — in order of priority:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/VineetSahoo)
 
 <br/>
 
@@ -337,8 +344,6 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VineetSaho63046)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
 
 <sub>Built with intention. Shipped with precision.</sub>
 
