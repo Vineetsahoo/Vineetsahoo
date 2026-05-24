@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=header&text=Vineet%20Sahoo&fontSize=70&animation=twinkling" alt="Vineet Sahoo profile header" />
+  <img width="960" height="240" alt="Black Minimal Business Personal Profile Linkedin Banner" src="https://github.com/user-attachments/assets/84b2c6e1-62b7-4dac-b2a8-857555af4df2" alt="Vineet Sahoo Banner"/>
 </p>
  
 <p>
