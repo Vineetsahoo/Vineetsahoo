@@ -4,7 +4,7 @@
 </p>
  
 <p>
-  <img src="https://img.shields.io/badge/Platform%20Engineer-6366F1?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
+  <img src="https://img.shields.io/badge/Frontend%20Tools-6366F1?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
   &nbsp;
   <img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=for-the-badge&logoColor=white" alt="AI Systems"/>
   &nbsp;
