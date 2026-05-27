@@ -251,29 +251,9 @@ A structured exploration of Quarto's full publishing stack — dynamic documents
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vineetsahoo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-  <img  alt="Vineetsahoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vineetsahoo?cardType=level-alternate&theme=radical&fontFamily=&hide_border=true&preferLogin=false" />
-  
-<img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=radical&hide_border=true" alt="Vineetsahoo's GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=vineetsahoo&bg_color=141321&color=fe428e&line=f8d847&point=a9fef7&area=true&area_color=fe428e33&hide_border=true&custom_title=Contribution+Activity" 
-alt="Contribution Activity"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://mygithubinsights.vercel.app/api/insight?username=Vineetsahoo&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Insights" />
+</p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Vineetsahoo)
 
