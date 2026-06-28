@@ -289,23 +289,13 @@ GitHub Achievements
 
 <br/>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
+## GitHub Contribution Graph
 
-## Engineering Philosophy
-
-```
-What I optimize for — in order of priority:
-
-  1. Correctness    Does it actually solve the right problem?
-  2. Clarity        Can a new engineer understand it within ten minutes?
-  3. Resilience     Does it degrade gracefully under failure?
-  4. Performance    Does it hold under real-world load?
-  5. Elegance       Is the architecture something worth being proud of?
-```
-
-> *The best engineers are also strong product thinkers. They understand why they are building, not just how.*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineetsahoo&bg_color=13151a&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=21262d&hide_border=true&custom_title=Vineet%27s%20Contribution%20Graph" alt="Vineet's GitHub Contribution Graph" />
+</p>
 
 <br/>
 
