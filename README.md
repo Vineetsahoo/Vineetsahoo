@@ -66,13 +66,15 @@ const vineet = {
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </td></tr>
 <tr><td align="center"><sub><b>Cloud & DevOps</b></sub></td><td>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,openshift,terraform,ansible,jenkins,githubactions,linux" />
 </td></tr>
 <tr><td align="center"><sub><b>Observability</b></sub></td><td>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://icon.icepanel.io/Technology/svg/Qodana.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
 </td></tr>
 <tr><td align="center"><sub><b>Languages</b></sub></td><td>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 </td></tr>
 </table>
 
