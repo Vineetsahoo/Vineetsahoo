@@ -63,7 +63,7 @@ const vineet = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </td></tr>
 <tr><td align="center"><sub><b>Databases</b></sub></td><td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </td></tr>
 <tr><td align="center"><sub><b>Cloud & DevOps</b></sub></td><td>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,openshift,terraform,ansible,jenkins,githubactions,linux" />
