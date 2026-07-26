@@ -1,14 +1,14 @@
 <div align="center">
 <p align="center">
-  <img width="1850" height="500" alt="Vineet Sahoo Banner" src="https://github.com/user-attachments/assets/19234c83-47be-48cc-97cb-88ba98e67dcd" />
+  <img width="1850" height="500" alt="GithubFront Banner" src="https://github.com/user-attachments/assets/c6dd9677-1a5b-4fbf-89b4-a2e4394d9c4c" />
 </p>
  
 <p>
-  <img src="https://img.shields.io/badge/Frontend%20Tools-6366F1?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
+  <img src="https://img.shields.io/badge/Frontend%20Tools-1C1C1C?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=for-the-badge&logoColor=white" alt="AI Systems"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-3A3A3A?style=for-the-badge&logoColor=white" alt="AI Systems"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-1D4ED8?style=for-the-badge&logoColor=white" alt="Cloud and DevOps"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-6E6E6E?style=for-the-badge&logoColor=white" alt="Cloud and DevOps"/>
 </p>
 <sub>B.Tech Computer Science Engineering &nbsp;&middot;&nbsp; SRM Institute of Science &amp; Technology, Tamil Nadu</sub>
  
@@ -179,72 +179,34 @@ An ML-powered cardiovascular risk assessment system that processes patient diagn
 <tr>
 <td width="53%" valign="top">
 
-**[Next.js AI Chatbot — NVIDIA](https://github.com/Vineetsahoo/Next-Ai-Chatbot---NVIDIA)**
+**[GhostCred — AI Dev Toolchain Secret Leak Detector + Auto-Revoker](https://github.com/Vineetsahoo/GhostCred)**
 
-![Stars](https://img.shields.io/github/stars/Vineetsahoo/Next-Ai-Chatbot---NVIDIA?style=flat-square&color=6366f1&label=Stars)&ensp;![Language](https://img.shields.io/github/languages/top/Vineetsahoo/Next-Ai-Chatbot---NVIDIA?style=flat-square&color=818cf8)&ensp;![Updated](https://img.shields.io/github/last-commit/Vineetsahoo/Next-Ai-Chatbot---NVIDIA?style=flat-square&color=6366f1&label=Updated)
+![Stars](https://img.shields.io/github/stars/Vineetsahoo/GhostCred?style=flat-square&color=6366f1&label=Stars)&ensp;![Language](https://img.shields.io/github/languages/top/Vineetsahoo/GhostCred?style=flat-square&color=818cf8)&ensp;![Updated](https://img.shields.io/github/last-commit/Vineetsahoo/GhostCred?style=flat-square&color=6366f1&label=Updated)
 
-`Next.js` &nbsp; `AI / LLM` &nbsp; `Real-Time UI` &nbsp; `NVIDIA`
+`Security` &nbsp; `DevOps` &nbsp; `AI Toolchain` &nbsp; `Python`
 
-A real-time conversational AI interface built with Next.js and NVIDIA's inference APIs. Engineered for low-latency response streaming and a production-quality chat UX — built as part of a Prismic Community developer challenge.
+A secret-leak detector and auto-revoker built for the blind spots that Gitleaks, TruffleHog, and detect-secrets don't cover — `claude_desktop_config.json`, `.cursor/mcp.json`, `.vscode/settings.json`, shell history, and every other file where AI coding agents read and write credentials. GhostCred doesn't stop at detection: it traces a leaked secret's blast radius across every file, log, and artifact it touched, then auto-revokes it at the provider (GitHub, OpenAI, Anthropic) the moment it's confirmed live.
 
 **Stack**
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,vercel" height="28"/>
+<img src="https://skillicons.dev/icons?i=python,docker,githubactions,prometheus,grafana" height="28"/>
 
 **Highlights**
-- Real-time message streaming with low-latency NVIDIA inference pipeline
-- Stateful conversation management across multi-turn sessions
-- Clean separation of concerns: UI layer, API client, and CMS(Content Management System)-driven content
+- AI toolchain-aware scanning across MCP configs, IDE settings, shell history, and agent caches — not just `.env` and source code
+- Secret lineage tracker builds a blast-radius graph: origin file → Docker build log → CI log → test artifact → git history
+- Auto-revocation webhooks call the provider's revocation API automatically once a secret is confirmed live
+- Pre-commit hook, GitHub Actions PR blocker, Docker pre-build guard, and a Prometheus + Grafana observability stack
+- 144 tests across 5 modules covering scanners, patterns, CLI, lineage, and file handling
 
 </td>
 <td width="47%" valign="top" align="center">
 
-<img width="1408" height="768" alt="Next_js_AI_Chatbot" src="https://github.com/user-attachments/assets/bc732d19-7eaf-4808-8724-452cc8bed9c9" />
-
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Prismic](https://img.shields.io/badge/Prismic_CMS-5163BA?style=flat-square&logo=prismic&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img width="1408" height="950" alt="GhostCred_Architecture" src="https://github.com/user-attachments/assets/87582cdd-4915-4ec3-ac21-8bc7311e9b65" />
 
 <br/>
 
-<!-- ════════════════════════════  PROJECT 04  ════════════════════════════ -->
-
-<table>
-<tr>
-<td width="47%" valign="top" align="center">
-
-<img width="1408" height="768" alt="Quarto_Learning _Journey" src="https://github.com/user-attachments/assets/837b2a4f-a477-411e-97b5-daa0acdfd115" />
-
-<br/>
-
-![Quarto](https://img.shields.io/badge/Quarto-447099?style=flat-square&logo=quarto&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</td>
-<td width="53%" valign="top">
-
-**[Quarto Learning Journey — Technical Publishing](https://github.com/Vineetsahoo/Quarto-Learning-Journey-)**
-
-![Stars](https://img.shields.io/github/stars/Vineetsahoo/Quarto-Learning-Journey-?style=flat-square&color=6366f1&label=Stars)&ensp;![Language](https://img.shields.io/github/languages/top/Vineetsahoo/Quarto-Learning-Journey-?style=flat-square&color=818cf8)&ensp;![Updated](https://img.shields.io/github/last-commit/Vineetsahoo/Quarto-Learning-Journey-?style=flat-square&color=6366f1&label=Updated)
-
-`Technical Writing` &nbsp; `Data Science` &nbsp; `Python` &nbsp; `Reproducible Research`
-
-A structured exploration of Quarto's full publishing stack — dynamic documents, interactive presentations, and data-driven reports generated from a unified source. Demonstrates reproducible research practices and multi-format scientific communication.
-
-**Stack**
-<img src="https://skillicons.dev/icons?i=python,html,jupyter" height="28"/>
-
-**Highlights**
-- Single-source authoring compiled to HTML, PDF, and interactive Reveal.js slide decks
-- Embedded live Python execution inside literate programming documents
-- Structured as a progressive learning curriculum — beginner through advanced patterns
+![Security](https://img.shields.io/badge/Security-Secret_Scanning-DC2626?style=flat-square&logo=shieldcheck&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-Prometheus_%2B_Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 </td>
 </tr>
