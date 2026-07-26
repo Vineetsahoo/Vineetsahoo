@@ -10,9 +10,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-6E6E6E?style=for-the-badge&logoColor=white" alt="Cloud and DevOps"/>
 </p>
-<sub>B.Tech Computer Science Engineering &nbsp;&middot;&nbsp; SRM Institute of Science &amp; Technology, Tamil Nadu</sub>
- 
-<br/>
+
 
 <br/>
 
@@ -88,7 +86,7 @@ const vineet = {
 
 ## Featured Projects
 
-> Four flagship systems — built with production-grade architecture and engineering discipline.
+> Three flagship systems — built with production-grade architecture and engineering discipline.
 
 <br/>
 
