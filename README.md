@@ -197,7 +197,7 @@ A secret-leak detector and auto-revoker built for the blind spots that Gitleaks,
 </td>
 <td width="47%" valign="top" align="center">
 
-<img width="1408" height="950" alt="GhostCred_Architecture" src="https://github.com/user-attachments/assets/87582cdd-4915-4ec3-ac21-8bc7311e9b65" />
+<img width="1536" height="955" alt="GhostCred" src="https://github.com/user-attachments/assets/f6897982-0d74-46b1-b337-f3db187a8f4e" />
 
 <br/>
 
