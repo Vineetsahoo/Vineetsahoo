@@ -1,8 +1,7 @@
 <div align="center">
 <p align="center">
-  <img width="1850" height="500" alt="GithubFront Banner" src="https://github.com/user-attachments/assets/c6dd9677-1a5b-4fbf-89b4-a2e4394d9c4c" />
 </p>
- 
+ <img width="1900" height="550" alt="Github Front Banner" src="https://github.com/user-attachments/assets/e7518262-3a91-474d-83f7-f11d144039d8" />
 <p>
   <img src="https://img.shields.io/badge/Frontend%20Tools-1C1C1C?style=for-the-badge&logoColor=white" alt="Frontend Engineer"/>
   &nbsp;
