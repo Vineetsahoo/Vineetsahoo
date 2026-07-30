@@ -1,7 +1,8 @@
 <div align="center">
 <p align="center">
 </p>
- <img width="1900" height="550" alt="Github Front Banner" src="https://github.com/user-attachments/assets/e7518262-3a91-474d-83f7-f11d144039d8" />
+<img width="1850" height="450" alt="Screenshot 2026-07-30 220126" src="https://github.com/user-attachments/assets/a3eadeda-08bb-458f-b169-271c840e5ddd" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Tools-1C1C1C?style=for-the-badge&logoColor=white" alt="Frontend Engineer" style="vertical-align:middle"/>
