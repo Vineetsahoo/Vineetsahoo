@@ -80,9 +80,10 @@ const vineet = {
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle"><sub><b>Observability</b></sub></td>
+<td align="center" valign="middle"><sub><b>Observability & Testing</b></sub></td>
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" style="vertical-align:middle"/>
+<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="vertical-align:middle; margin: 0 4px;">
 <img src="https://icon.icepanel.io/Technology/svg/Qodana.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
 <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
 <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="vertical-align:middle; margin: 0 4px; border-radius:8px;" />
