@@ -3,22 +3,12 @@
 </p>
 <img width="1850" height="450" alt="Screenshot 2026-07-30 220126" src="https://github.com/user-attachments/assets/a3eadeda-08bb-458f-b169-271c840e5ddd" />
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Tools-1C1C1C?style=for-the-badge&logoColor=white" alt="Frontend Engineer" style="vertical-align:middle"/>
   &nbsp;
   <img src="https://img.shields.io/badge/AI%20Systems-3A3A3A?style=for-the-badge&logoColor=white" alt="AI Systems" style="vertical-align:middle"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-6E6E6E?style=for-the-badge&logoColor=white" alt="Cloud and DevOps" style="vertical-align:middle"/>
-</p>
-
-<br/>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://vineetsahoo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" style="vertical-align:middle"/></a>
 </p>
 
 </div>
@@ -44,8 +34,6 @@ const vineet = {
 > I build software that is technically sound, visually precise, and architecturally intentional.
 > From production CI/CD observability platforms to ML-powered healthcare systems — I bring the same
 > engineering discipline to every layer of the stack.
-
-<br/>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Vineetsahoo)
 
@@ -258,10 +246,12 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://vineetsahoo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="vertical-align:middle"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="vertical-align:middle"/></a>&ensp;
+<a href="https://vineetsahoo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
+<a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="vertical-align:middle"/></a>&ensp;
+<a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" style="vertical-align:middle"/></a>
+</p>
 
 <br/>
 
