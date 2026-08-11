@@ -72,10 +72,10 @@ const vineet = {
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" style="vertical-align:middle"/>
 <img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="vertical-align:middle; margin: 0 4px;">
-<img src="https://icon.icepanel.io/Technology/svg/Qodana.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
 <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
 <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;" />
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" width="45" height="45" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;"/>
+<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;"/>
+<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;"/>
 </td>
 </tr>
 <tr>
