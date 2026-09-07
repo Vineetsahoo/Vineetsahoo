@@ -43,29 +43,29 @@ const vineet = {
 
 <table width="100%">
 <tr>
-<th align="center" width="33%">Frontend</th>
-<th align="center" width="33%">Backend</th>
+<th align="center" width="37%">Frontend</th>
+<th align="center" width="30%">Backend</th>
 <th align="center" width="33%">Databases</th>
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=react" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=ts" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=js" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=html" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=css" width="44" height="44" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=express" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=python" width="44" height="44" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" style="margin:2px;"/>
 </td>
 </tr>
 <tr>
@@ -75,28 +75,28 @@ const vineet = {
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=openshift" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=aws" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=docker" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=openshift" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=terraform" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=ansible" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=linux" width="44" height="44" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=python" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="44" height="44" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" style="margin:2px;"/>
-<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:6px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=prometheus" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=grafana" width="44" height="44" style="margin:2px;"/>
+<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:6px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
 </td>
 </tr>
 </table>
@@ -246,11 +246,7 @@ A secret-leak detector and auto-revoker built for the blind spots that Gitleaks,
   <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Vineet's GitHub Streak" />
 </p>
 
-<br/>
-
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/VineetSahoo)
-
-
 
 ## Connect
 
