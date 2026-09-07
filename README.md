@@ -49,13 +49,23 @@ const vineet = {
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" style="margin:2px;"/>
 </td>
 </tr>
 <tr>
@@ -76,10 +86,12 @@ const vineet = {
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" style="margin:2px;"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" style="margin:2px;"/>
 <img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
 <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
 <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:6px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
