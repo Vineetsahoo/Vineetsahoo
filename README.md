@@ -27,7 +27,7 @@ const vineet = {
     "AI-Powered Full-Stack Systems",
     "Cloud Infrastructure & DevOps",
   ],
-  openTo      : ["Engineering Internships", "Technical Collaborations", "Open Source"],
+  openTo      : ["Technical Collaborations", "Open Source"],
 };
 ```
 
@@ -37,51 +37,54 @@ const vineet = {
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Vineetsahoo)
 
-
 ## Technical Expertise
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" valign="middle" width="120"><sub><b>Frontend</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" style="vertical-align:middle"/>
+<th align="center" width="33%">Frontend</th>
+<th align="center" width="33%">Backend</th>
+<th align="center" width="33%">Databases</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle"><sub><b>Backend</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" style="vertical-align:middle"/>
-</td>
+<th align="center">Cloud & DevOps</th>
+<th align="center">Languages</th>
+<th align="center">Security & Observability</th>
 </tr>
 <tr>
-<td align="center" valign="middle"><sub><b>Databases</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="vertical-align:middle"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=openshift" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" style="margin:2px;"/>
 </td>
-</tr>
-<tr>
-<td align="center" valign="middle"><sub><b>Cloud & DevOps</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,openshift,terraform,ansible,jenkins,githubactions,linux" style="vertical-align:middle"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 </td>
-</tr>
-<tr>
-<td align="center" valign="middle"><sub><b>Observability & Testing</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" style="vertical-align:middle"/>
-<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="vertical-align:middle; margin: 0 4px;">
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="vertical-align:middle; margin: 0 4px;" />
-<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;" />
-<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;"/>
-<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="48" height="48" style="vertical-align:middle; margin: 0 4px; bordeimgr-radius:8px;"/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle"><sub><b>Languages</b></sub></td>
-<td valign="middle">
-<img src="https://skillicons.dev/icons?i=python,cpp" style="vertical-align:middle"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:6px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
+<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="48" height="48" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
 </td>
 </tr>
 </table>
@@ -225,10 +228,10 @@ A secret-leak detector and auto-revoker built for the blind spots that Gitleaks,
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Vineetsahoo)
 
-## GitHub Contribution Graph
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineetsahoo&bg_color=13151a&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=21262d&hide_border=true&custom_title=Vineet%27s%20Contribution%20Graph" alt="Vineet's GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Vineet's GitHub Streak" />
 </p>
 
 <br/>
