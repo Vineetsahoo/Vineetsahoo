@@ -66,6 +66,8 @@ const vineet = {
 <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" style="margin:2px;"/>
 <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" style="margin:2px;"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=supabase" width="44" height="44" style="margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" style="margin:2px;"/>
 </td>
 </tr>
 <tr>
