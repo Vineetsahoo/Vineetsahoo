@@ -259,7 +259,7 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://vineetsahoo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
+<a href="https://vineet-sahoo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
 <a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="vertical-align:middle"/></a>&ensp;
 <a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" style="vertical-align:middle"/></a>
 </p>
