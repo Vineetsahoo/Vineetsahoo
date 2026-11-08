@@ -1,43 +1,174 @@
-<div align="center">
 <p align="center">
-</p>
-<img width="1850" height="450" alt="Screenshot 2026-07-30 220126" src="https://github.com/user-attachments/assets/a3eadeda-08bb-458f-b169-271c840e5ddd" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Tools-1C1C1C?style=for-the-badge&logoColor=white" alt="Frontend Engineer" style="vertical-align:middle"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Systems-3A3A3A?style=for-the-badge&logoColor=white" alt="AI Systems" style="vertical-align:middle"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-6E6E6E?style=for-the-badge&logoColor=white" alt="Cloud and DevOps" style="vertical-align:middle"/>
+  <img src="./assets/hero.svg" alt="Vineet Sahoo. I build the interface, and the pipeline under it." width="100%"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://vineet-sahoo.netlify.app/"><b>PORTFOLIO</b></a> &nbsp;/&nbsp;
+  <a href="#work"><b>WORK</b></a> &nbsp;/&nbsp;
+  <a href="#stack"><b>STACK</b></a> &nbsp;/&nbsp;
+  <a href="#activity"><b>ACTIVITY</b></a> &nbsp;/&nbsp;
+  <a href="#contact"><b>CONTACT</b></a>
+</p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Vineetsahoo)
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=C6FF3D&logoColor=white" alt="Frontend"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Systems-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=ECE6D6&logoColor=white" alt="AI Systems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=6B6B60&logoColor=white" alt="Cloud and DevOps"/>
+</p>
 
-
-## `$ whoami`
+<br/>
 
 ```typescript
 const vineet = {
-  university  : "SRM Institute of Science & Technology, Tamil Nadu",
-  degree      : "B.Tech — Computer Science Engineering",
-  domains     : [
+  role     : "Full-stack & DevOps engineer",
+  base     : "Chennai, IST",
+  domains  : [
     "Scalable Frontend Engineering",
     "AI-Powered Full-Stack Systems",
     "Cloud Infrastructure & DevOps",
   ],
-  openTo      : ["Technical Collaborations", "Open Source"],
+  openTo   : ["Engineering Internships", "Technical Collaborations", "Open Source"],
 };
 ```
 
 > I build software that is technically sound, visually precise, and architecturally intentional.
-> From production CI/CD observability platforms to ML-powered healthcare systems — I bring the same
-> engineering discipline to every layer of the stack.
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Vineetsahoo)
+I work across three layers that usually belong to different people: the interface, the AI behind it, and the infrastructure it ships on. Mora AI is the clearest example. A React dashboard on top, a Bedrock → Ollama → local model fallback chain in the middle, Terraform and EKS underneath.
 
-## Technical Expertise
+<br/>
+
+<a id="work"></a>
+<img src="./assets/section-work.svg" alt="01 Work" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════ PROJECT 01 ═══════════════ -->
+
+<table>
+<tr>
+<td width="53%" valign="top">
+
+**[Mora AI: AI-Driven CI/CD RCA Platform](https://github.com/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard)**
+
+<img src="https://img.shields.io/github/stars/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=C6FF3D&labelColor=0A0A0A&label=STARS" alt="Stars"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=ECE6D6&labelColor=0A0A0A" alt="Top language"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=6B6B60&labelColor=0A0A0A&label=UPDATED" alt="Last commit"/>
+
+`DEVOPS` `AI / ML` `SAAS` `CLOUD`
+
+Finds CI/CD pipeline failures, writes the root-cause analysis, and offers one-click remediation.
+
+- **No single point of failure.** The AI layer falls back from AWS Bedrock Nova to Ollama to a local model.
+- **Everything is code.** Terraform defines the VPC, EKS, ECR, Lambda, CloudWatch, and Bedrock IAM.
+- **One command to ship.** Ansible, Terraform, and kubectl roll it out to EKS.
+- **Observable by default.** Grafana dashboards are provisioned from the backend's live `/metrics`.
+- **Gated CI.** `backend-check → frontend-build → api-smoke → sonar-scan → docker-build`
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,aws,docker,kubernetes,terraform&theme=dark" height="30" alt="Mora AI stack"/>
+
+**[Read the repo →](https://github.com/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard)**
+
+</td>
+<td width="47%" valign="middle" align="center">
+
+<img width="1408" height="768" alt="Mora AI dashboard" src="https://github.com/user-attachments/assets/51a21597-e418-4b4b-9610-a331b031ff13" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%2B_Jenkins-0A0A0A?style=flat-square&logo=githubactions&logoColor=C6FF3D" alt="GitHub Actions and Jenkins"/>
+<img src="https://img.shields.io/badge/IaC-Terraform-0A0A0A?style=flat-square&logo=terraform&logoColor=C6FF3D" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Platform-AWS_EKS-0A0A0A?style=flat-square&logo=amazonwebservices&logoColor=C6FF3D" alt="AWS EKS"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ PROJECT 02 ═══════════════ -->
+
+<table>
+<tr>
+<td width="47%" valign="middle" align="center">
+
+<img width="1536" height="955" alt="GhostCred" src="https://github.com/user-attachments/assets/f6897982-0d74-46b1-b337-f3db187a8f4e" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Security-Secret_Scanning-0A0A0A?style=flat-square&logo=shieldcheck&logoColor=C6FF3D" alt="Secret scanning"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=C6FF3D" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Observability-Prometheus_%2B_Grafana-0A0A0A?style=flat-square&logo=prometheus&logoColor=C6FF3D" alt="Prometheus and Grafana"/>
+
+</td>
+<td width="53%" valign="top">
+
+**[GhostCred: Secret Leak Detector + Auto-Revoker for AI Dev Toolchains](https://github.com/Vineetsahoo/GhostCred)**
+
+<img src="https://img.shields.io/github/stars/Vineetsahoo/GhostCred?style=flat-square&color=C6FF3D&labelColor=0A0A0A&label=STARS" alt="Stars"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/GhostCred?style=flat-square&color=ECE6D6&labelColor=0A0A0A" alt="Top language"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/GhostCred?style=flat-square&color=6B6B60&labelColor=0A0A0A&label=UPDATED" alt="Last commit"/>
+
+`SECURITY` `DEVOPS` `AI TOOLCHAIN` `PYTHON`
+
+Finds leaked secrets where AI coding agents leave them, then revokes them at the provider.
+
+- **Scans the blind spots.** `claude_desktop_config.json`, `.cursor/mcp.json`, `.vscode/settings.json`, and shell history, which Gitleaks, TruffleHog, and detect-secrets don't cover.
+- **Maps the blast radius.** A lineage graph follows a secret from origin file to Docker build log, CI log, test artifact, and git history.
+- **Acts, not just alerts.** Once a secret is confirmed live, webhooks call the revocation API at GitHub, OpenAI, or Anthropic.
+- **Guards every gate.** Pre-commit hook, GitHub Actions PR blocker, Docker pre-build guard, and a Prometheus and Grafana stack.
+- **Tested.** 144 tests across 5 modules.
+
+<img src="https://skillicons.dev/icons?i=python,docker,githubactions,prometheus,grafana&theme=dark" height="30" alt="GhostCred stack"/>
+
+**[Read the repo →](https://github.com/Vineetsahoo/GhostCred)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ PROJECT 03 ═══════════════ -->
+
+<table>
+<tr>
+<td width="53%" valign="top">
+
+**[CardioVision AI: Healthcare ML System](https://github.com/Vineetsahoo/CardioVision-AI)**
+
+<img src="https://img.shields.io/github/stars/Vineetsahoo/CardioVision-AI?style=flat-square&color=C6FF3D&labelColor=0A0A0A&label=STARS" alt="Stars"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/CardioVision-AI?style=flat-square&color=ECE6D6&labelColor=0A0A0A" alt="Top language"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/CardioVision-AI?style=flat-square&color=6B6B60&labelColor=0A0A0A&label=UPDATED" alt="Last commit"/>
+
+`MACHINE LEARNING` `HEALTHCARE` `DATA SCIENCE` `PYTHON`
+
+Turns patient diagnostic data into cardiovascular risk predictions.
+
+- **Full pipeline.** Ingestion, EDA, feature engineering, training, and evaluation.
+- **Compared, not assumed.** Several classifiers with cross-validation and hyperparameter tuning.
+- **Readable results.** Visualizations of feature correlations and risk distributions.
+
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" height="30" alt="CardioVision stack"/>
+
+**[Read the repo →](https://github.com/Vineetsahoo/CardioVision-AI)**
+
+</td>
+<td width="47%" valign="middle" align="center">
+
+<img width="1408" height="768" alt="CardioVision AI" src="https://github.com/user-attachments/assets/77afce11-15a6-4192-aa57-cc03bbd6f040" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=C6FF3D" alt="Python"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat-square&logo=scikit-learn&logoColor=C6FF3D" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=flat-square&logo=jupyter&logoColor=C6FF3D" alt="Jupyter"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a id="stack"></a>
+<img src="./assets/section-stack.svg" alt="02 Stack" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -105,170 +236,46 @@ const vineet = {
 
 </div>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Vineetsahoo)
-
-
-## Featured Projects
-
-> Three flagship systems — built with production-grade architecture and engineering discipline.
-
 <br/>
 
-<!-- ════════════════════════════  PROJECT 01  ════════════════════════════ -->
-
-<table>
-<tr>
-<td width="53%" valign="top">
-
-**[MoraAI — AI-Driven CI/CD RCA Platform](https://github.com/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard)**
-
-<p>
-<img src="https://img.shields.io/github/stars/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=6366f1&label=Stars" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=818cf8" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/AI-Driven-CI-CD-RCA-Dashboard?style=flat-square&color=6366f1&label=Updated" style="vertical-align:middle"/>
-</p>
-
-`DevOps` &nbsp; `AI / ML` &nbsp; `SaaS` &nbsp; `Cloud Infrastructure`
-
-A production-grade SaaS platform that applies AI to detect CI/CD pipeline failures, synthesize root-cause analysis, and deliver one-click remediation workflows. The AI layer operates as a resilient fallback chain — **AWS Bedrock Nova → Ollama → local model** — eliminating any single point of failure.
-
-**Stack**
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,aws,docker,kubernetes,terraform" height="28" style="vertical-align:middle"/>
-
-**Highlights**
-- Multi-stage GH Actions CI: `backend-check → frontend-build → api-smoke → sonar-scan → docker-build`
-- Full IaC via Terraform — VPC, EKS, ECR, Lambda, CloudWatch, Bedrock IAM all codified
-- One-command EKS rollout via Ansible + Terraform + kubectl orchestration
-- Auto-provisioned Grafana dashboards consuming live `/metrics` from the Express backend
-
-</td>
-<td width="47%" valign="middle" align="center">
-
-<img width="1408" height="768" alt="MORA_AI" src="https://github.com/user-attachments/assets/51a21597-e418-4b4b-9610-a331b031ff13" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%2B_Jenkins-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/Platform-AWS_EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" style="vertical-align:middle"/>
-
-</td>
-</tr>
-</table>
+<a id="activity"></a>
+<img src="./assets/section-activity.svg" alt="03 Activity" width="100%"/>
 
 <br/>
-
-<!-- ════════════════════════════  PROJECT 02  ════════════════════════════ -->
-
-<table>
-<tr>
-<td width="47%" valign="middle" align="center">
-
-<img width="1408" height="768" alt="Cardio_Vision_AI" src="https://github.com/user-attachments/assets/77afce11-15a6-4192-aa57-cc03bbd6f040" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" style="vertical-align:middle"/>
-
-</td>
-<td width="53%" valign="top">
-
-**[CardioVision AI — Healthcare ML System](https://github.com/Vineetsahoo/CardioVision-AI)**
-
-<p>
-<img src="https://img.shields.io/github/stars/Vineetsahoo/CardioVision-AI?style=flat-square&color=6366f1&label=Stars" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/CardioVision-AI?style=flat-square&color=818cf8" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/CardioVision-AI?style=flat-square&color=6366f1&label=Updated" style="vertical-align:middle"/>
-</p>
-
-`Machine Learning` &nbsp; `Healthcare` &nbsp; `Data Science` &nbsp; `Python`
-
-An ML-powered cardiovascular risk assessment system that processes patient diagnostic data to surface predictive insights about heart health. Bridges the gap between raw medical datasets and actionable clinical intelligence.
-
-**Stack**
-<img src="https://skillicons.dev/icons?i=python,jupyter" height="28" style="vertical-align:middle"/>
-
-**Highlights**
-- End-to-end ML pipeline: data ingestion → EDA → feature engineering → model training → evaluation
-- Comparative analysis across multiple classifiers with cross-validation and hyperparameter tuning
-- Publication-quality visualizations surfacing feature correlations and cardiovascular risk distributions
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════  PROJECT 03  ════════════════════════════ -->
-
-<table>
-<tr>
-<td width="53%" valign="top">
-
-**[GhostCred — AI Dev Toolchain Secret Leak Detector + Auto-Revoker](https://github.com/Vineetsahoo/GhostCred)**
-
-<p>
-<img src="https://img.shields.io/github/stars/Vineetsahoo/GhostCred?style=flat-square&color=6366f1&label=Stars" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/languages/top/Vineetsahoo/GhostCred?style=flat-square&color=818cf8" style="vertical-align:middle"/>&ensp;<img src="https://img.shields.io/github/last-commit/Vineetsahoo/GhostCred?style=flat-square&color=6366f1&label=Updated" style="vertical-align:middle"/>
-</p>
-
-`Security` &nbsp; `DevOps` &nbsp; `AI Toolchain` &nbsp; `Python`
-
-A secret-leak detector and auto-revoker built for the blind spots that Gitleaks, TruffleHog, and detect-secrets don't cover — `claude_desktop_config.json`, `.cursor/mcp.json`, `.vscode/settings.json`, shell history, and every other file where AI coding agents read and write credentials. GhostCred doesn't stop at detection: it traces a leaked secret's blast radius across every file, log, and artifact it touched, then auto-revokes it at the provider (GitHub, OpenAI, Anthropic) the moment it's confirmed live.
-
-**Stack**
-<img src="https://skillicons.dev/icons?i=python,docker,githubactions,prometheus,grafana" height="28" style="vertical-align:middle"/>
-
-**Highlights**
-- AI toolchain-aware scanning across MCP configs, IDE settings, shell history, and agent caches — not just `.env` and source code
-- Secret lineage tracker builds a blast-radius graph: origin file → Docker build log → CI log → test artifact → git history
-- Auto-revocation webhooks call the provider's revocation API automatically once a secret is confirmed live
-- Pre-commit hook, GitHub Actions PR blocker, Docker pre-build guard, and a Prometheus + Grafana observability stack
-- 144 tests across 5 modules covering scanners, patterns, CLI, lineage, and file handling
-
-</td>
-<td width="47%" valign="middle" align="center">
-
-<img width="1536" height="955" alt="GhostCred" src="https://github.com/user-attachments/assets/f6897982-0d74-46b1-b337-f3db187a8f4e" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Security-Secret_Scanning-DC2626?style=flat-square&logo=shieldcheck&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/Observability-Prometheus_%2B_Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white" style="vertical-align:middle"/>
-
-</td>
-</tr>
-</table>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Vineetsahoo)
-
-## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Vineet's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=dark&hide_border=true&background=0A0A0A&stroke=30363D&ring=C6FF3D&fire=C6FF3D&currStreakLabel=C6FF3D&sideNums=ECE6D6&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Vineet's GitHub Streak" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/VineetSahoo)
+<br/>
 
-## Connect
+<a id="contact"></a>
+<img src="./assets/section-contact.svg" alt="04 Contact" width="100%"/>
+
+<br/>
 
 <div align="center">
 
 Open to **engineering internships**, **technical collaborations**, and **impactful open source work**.
-Building something serious in AI, cloud infrastructure, or modern web engineering — reach out.
+Building something serious in AI, cloud infrastructure, or modern web engineering? Reach out.
 
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://vineet-sahoo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="vertical-align:middle"/></a>&ensp;
-<a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" style="vertical-align:middle"/></a>
+<a href="https://www.linkedin.com/in/vineet-sahoo-81b022311/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C6FF3D" alt="LinkedIn"/></a>&ensp;
+<a href="https://vineet-sahoo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=C6FF3D" alt="Portfolio"/></a>&ensp;
+<a href="mailto:vineetsahoo3@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C6FF3D" alt="Email"/></a>&ensp;
+<a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0A0A0A?style=flat-square&logo=x&logoColor=C6FF3D" alt="X / Twitter"/></a>
 </p>
 
 <br/>
 
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
 <sub>Built with intention. Shipped with precision.</sub>
 
 </div>
+
 <div align="center">
 <p align="center">
   <img width="2000" height="100" alt="End_Image_Github" src="https://github.com/user-attachments/assets/ad1d47b6-ed0a-4f22-8884-e785c842b0ac" />
