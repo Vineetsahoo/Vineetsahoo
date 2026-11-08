@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Vineet Sahoo. I build the interface, and the pipeline under it." width="100%"/>
+  <img src="./hero.svg" alt="Vineet Sahoo. I build the interface, and the pipeline under it." width="100%"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I work across three layers that usually belong to different people: the interfac
 <br/>
 
 <a id="work"></a>
-<img src="./assets/section-work.svg" alt="01 Work" width="100%"/>
+<img src="./section-work.svg" alt="01 Work" width="100%"/>
 
 <br/>
 
@@ -166,7 +166,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 <br/>
 
 <a id="stack"></a>
-<img src="./assets/section-stack.svg" alt="02 Stack" width="100%"/>
+<img src="./section-stack.svg" alt="02 Stack" width="100%"/>
 
 <br/>
 
@@ -239,7 +239,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 <br/>
 
 <a id="activity"></a>
-<img src="./assets/section-activity.svg" alt="03 Activity" width="100%"/>
+<img src="./section-activity.svg" alt="03 Activity" width="100%"/>
 
 <br/>
 
@@ -250,7 +250,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 <br/>
 
 <a id="contact"></a>
-<img src="./assets/section-contact.svg" alt="04 Contact" width="100%"/>
+<img src="./section-contact.svg" alt="04 Contact" width="100%"/>
 
 <br/>
 
@@ -270,7 +270,7 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 
 <br/>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
 
 <sub>Built with intention. Shipped with precision.</sub>
 
