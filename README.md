@@ -268,9 +268,6 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 <a href="https://x.com/VineetSaho63046"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0A0A0A?style=flat-square&logo=x&logoColor=C6FF3D" alt="X / Twitter"/></a>
 </p>
 
-<br/>
-
-<img src="./divider-brackets.svg" alt="" width="100%"/>
 
 </div>
 
