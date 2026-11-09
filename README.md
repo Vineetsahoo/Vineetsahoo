@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=6B6B60&logoColor=white" alt="Cloud and DevOps"/>
 </p>
 
-<br/>
+<p align="center"><img src="./divider.svg" alt="" width="100%"/></p>
 
 ```typescript
 const vineet = {
@@ -37,7 +37,7 @@ const vineet = {
 
 I work across three layers that usually belong to different people: the interface, the AI behind it, and the infrastructure it ships on. Mora AI is the clearest example. A React dashboard on top, a Bedrock → Ollama → local model fallback chain in the middle, Terraform and EKS underneath.
 
-<br/>
+<p align="center"><img src="./divider-ruler.svg" alt="" width="100%"/></p>
 
 <a id="work"></a>
 <img src="./section-work.svg" alt="01 Work" width="100%"/>
@@ -83,7 +83,7 @@ Finds CI/CD pipeline failures, writes the root-cause analysis, and offers one-cl
 </tr>
 </table>
 
-<br/>
+<p align="center"><img src="./divider-commit.svg" alt="" width="100%"/></p>
 
 <!-- ═══════════════ PROJECT 02 ═══════════════ -->
 
@@ -124,7 +124,7 @@ Finds leaked secrets where AI coding agents leave them, then revokes them at the
 </tr>
 </table>
 
-<br/>
+<p align="center"><img src="./divider-dots.svg" alt="" width="100%"/></p>
 
 <!-- ═══════════════ PROJECT 03 ═══════════════ -->
 
@@ -163,7 +163,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 </tr>
 </table>
 
-<br/>
+<p align="center"><img src="./divider-pipeline.svg" alt="" width="100%"/></p>
 
 <a id="stack"></a>
 <img src="./section-stack.svg" alt="02 Stack" width="100%"/>
@@ -236,7 +236,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 
 </div>
 
-<br/>
+<p align="center"><img src="./divider-signal.svg" alt="" width="100%"/></p>
 
 <a id="activity"></a>
 <img src="./section-activity.svg" alt="03 Activity" width="100%"/>
@@ -247,7 +247,7 @@ Turns patient diagnostic data into cardiovascular risk predictions.
   <img src="https://streak-stats.demolab.com?user=Vineetsahoo&theme=dark&hide_border=true&background=0A0A0A&stroke=30363D&ring=C6FF3D&fire=C6FF3D&currStreakLabel=C6FF3D&sideNums=ECE6D6&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Vineet's GitHub Streak" />
 </p>
 
-<br/>
+<p align="center"><img src="./divider-segments.svg" alt="" width="100%"/></p>
 
 <a id="contact"></a>
 <img src="./section-contact.svg" alt="04 Contact" width="100%"/>
@@ -270,14 +270,10 @@ Building something serious in AI, cloud infrastructure, or modern web engineerin
 
 <br/>
 
-<img src="./divider.svg" alt="" width="100%"/>
-
-<sub>Built with intention. Shipped with precision.</sub>
+<img src="./divider-brackets.svg" alt="" width="100%"/>
 
 </div>
 
-<div align="center">
 <p align="center">
-  <img width="2000" height="100" alt="End_Image_Github" src="https://github.com/user-attachments/assets/ad1d47b6-ed0a-4f22-8884-e785c842b0ac" />
+  <img src="./footer.svg" alt="Animated Kubernetes cluster where pods are killed and replaced while the service heartbeat stays alive. Pods die. The service doesn't." width="100%"/>
 </p>
-</div>
