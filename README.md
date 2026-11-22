@@ -3,19 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://vineet-sahoo.netlify.app/"><b>PORTFOLIO</b></a> &nbsp;/&nbsp;
-  <a href="#work"><b>WORK</b></a> &nbsp;/&nbsp;
-  <a href="#stack"><b>STACK</b></a> &nbsp;/&nbsp;
-  <a href="#activity"><b>ACTIVITY</b></a> &nbsp;/&nbsp;
-  <a href="#contact"><b>CONTACT</b></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=C6FF3D&logoColor=white" alt="Frontend"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Systems-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=ECE6D6&logoColor=white" alt="AI Systems"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=6B6B60&logoColor=white" alt="Cloud and DevOps"/>
+  <a href="https://vineetsahoo.netlify.app/"><img src="./icon-portfolio.svg" height="44" alt="Portfolio"/></a>&nbsp;
+  <a href="#work"><img src="./icon-work.svg" height="44" alt="Work"/></a>&nbsp;
+  <a href="#stack"><img src="./icon-stack.svg" height="44" alt="Stack"/></a>&nbsp;
+  <a href="#activity"><img src="./icon-activity.svg" height="44" alt="Activity"/></a>&nbsp;
+  <a href="#contact"><img src="./icon-contact.svg" height="44" alt="Contact"/></a>
 </p>
 
 <p align="center"><img src="./divider.svg" alt="" width="100%"/></p>
