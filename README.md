@@ -162,71 +162,9 @@ Turns patient diagnostic data into cardiovascular risk predictions.
 
 <br/>
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<th align="center" width="37%">Frontend</th>
-<th align="center" width="30%">Backend</th>
-<th align="center" width="33%">Databases</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=ts" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=js" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=html" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=css" width="44" height="44" style="margin:2px;"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=express" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=python" width="44" height="44" style="margin:2px;"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" style="margin:2px;"/>
-</td>
-</tr>
-<tr>
-<th align="center">Cloud & DevOps</th>
-<th align="center">Languages</th>
-<th align="center">Security & Observability</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=docker" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=openshift" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=terraform" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=ansible" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=jenkins" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=linux" width="44" height="44" style="margin:2px;"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="44" height="44" style="margin:2px;"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus" width="44" height="44" style="margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=grafana" width="44" height="44" style="margin:2px;"/>
-<img src="https://checkmarx.com/wp-content/uploads/2024/06/cropped-cx_favicon.webp" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_240/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2024%2F02%2Ftrivy400x400.jpg.png" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:6px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img src="https://avatars.githubusercontent.com/u/29760937?s=280&v=4" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-<img alt="Bandit icon" src="https://github.com/user-attachments/assets/2476ee0d-dfb5-4296-a7b0-747d8e387e72" width="44" height="44" style="border-radius:9px; background:#0d1117; padding:8px; border:1px solid #30363d; object-fit:contain; vertical-align:middle; margin:2px;"/>
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="./tech-stack.svg" alt="Tech stack. Frontend: React, Next.js, TypeScript, Tailwind, JavaScript, HTML5, CSS3. Backend: Node.js, Express, Python. Databases: MongoDB, MySQL, PostgreSQL, Supabase, Firebase. Languages: Python, C++. Cloud and DevOps: AWS, Docker, Kubernetes, OpenShift, Terraform, Ansible, Jenkins, GitHub Actions, Linux. Security and Observability: Prometheus, Grafana, Checkmarx, SonarQube, Trivy, Semgrep, Bandit." width="100%"/>
+</p>
 
 <p align="center"><img src="./divider-signal.svg" alt="" width="100%"/></p>
 
